@@ -31,3 +31,6 @@
 *.iws
 *.iml
 *.ipr
+*.class
+
+
